@@ -4,10 +4,9 @@ A **Java Swing** GUI application built and run with **Maven**.
 
 ## Table of Contents
 1. [Description](#description)  
-2. [Prerequisites](#prerequisites)  
-3. [Project Structure](#project-structure)  
-4. [How to Run](#how-to-run)  
-5. [License](#license)
+2. [Prerequisites](#prerequisites)   
+3. [How to Run](#how-to-run)  
+4. [Status](#Status)
 
 ---
 
