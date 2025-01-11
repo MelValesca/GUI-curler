@@ -1,0 +1,11 @@
+view/GetSimplePanel.class
+view/TextPanel.class
+view/PasteTF.class
+view/ResultPanel.class
+view/FFUFMenu.class
+model/Main.class
+view/FFUFPanel.class
+view/PasteTA.class
+controller/Controller.class
+view/GetSimpleMenu.class
+view/UserInterface.class
