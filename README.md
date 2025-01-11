@@ -41,7 +41,7 @@ This project is a CTF-focused toolkit that allows you to brute force hidden or o
 2. **Run the application**:
 
      ```bash
-     mvn exec:java"
+     mvn exec:java
      ```
 
 If everything is set up correctly, a GUI window should appear.
