@@ -26,11 +26,6 @@ This project is a CTF-focused toolkit that allows you to brute force hidden or o
 ---
 
 
-- **pom.xml**: Defines Maven plugins, dependencies, and project metadata.  
-- **MainWindow.java**: Contains the `main` method and Swing code (e.g., `JFrame`).
-
----
-
 ## How to Run
 
 1. **Build the project**:
